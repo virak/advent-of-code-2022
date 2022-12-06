@@ -1,0 +1,1 @@
+require("fs").readFile("./i.txt","utf8",(e,x)=>{[...x].some((e,i)=>{if(!/([a-zA-Z]).*?\1/.test(x.substring(i,i+4))){console.log(i+4);return true}})});
