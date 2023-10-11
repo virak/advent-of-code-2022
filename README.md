@@ -7,5 +7,5 @@ To get the solution , just run the command :
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| Data 1 | > Data 2 \ > test | Data 3 |
-| Data 4 | > Data 5 \ > hdhdhhd | Data 6 |
+| Data 1 | > Data 2 <br> > test | Data 3 |
+| Data 4 | > Data 5 <br> > hdhdhhd | Data 6 |
